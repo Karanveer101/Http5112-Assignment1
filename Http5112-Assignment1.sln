@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Http5112-Assignment1", "Http5112-Assignment1\Http5112-Assignment1.csproj", "{822A74E3-B58E-4922-9C07-AFB95C8A451F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{822A74E3-B58E-4922-9C07-AFB95C8A451F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822A74E3-B58E-4922-9C07-AFB95C8A451F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822A74E3-B58E-4922-9C07-AFB95C8A451F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822A74E3-B58E-4922-9C07-AFB95C8A451F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9A45B85-7DE7-4B2E-A247-88098E5B0E47}
+	EndGlobalSection
+EndGlobal
